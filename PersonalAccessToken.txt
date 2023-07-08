@@ -1,2 +1,16 @@
 Personal Access Token
 -> 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
+
+Checking Origin
+-> git remote -v
+
+Changing Remote url (We need PAT based url on Https url)
+-> git remote set-url origin https://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@github.com/ParvezMah/my-simple-website.git
+
+
+
+
+
+
+Solution Video Link 
+Youtube - https://www.youtube.com/watch?v=uFaYgSVzy3w
